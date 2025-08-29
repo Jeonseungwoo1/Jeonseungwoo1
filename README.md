@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-- ☁☀️ Gachon University Visual AI Lab  
+- ☀️ Gachon University Visual AI Lab  
   <sub>2024.01.10 ~ 2025.07.01</sub>
 - ☀️ Cloudike Company Internship  
   <sub>2025.07.01 ~ 2025.08.31</sub>
