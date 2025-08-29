@@ -2,6 +2,8 @@
 
 ![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonseungwoo1&show_icons=true&theme=transparent)
 
+## Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=swoo531)](https://velog.io/@swoo531)
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:swoo1577@gmail.com)
