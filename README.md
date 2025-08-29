@@ -13,6 +13,3 @@
 ## 📚status
 ![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonseungwoo1&show_icons=true&theme=transparent)
 
-<div align="left">
-    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-</div>
