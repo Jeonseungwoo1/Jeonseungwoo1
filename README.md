@@ -1,7 +1,5 @@
 # Jeon SeungWoo😀
 
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJeonseungwoo1?color=green&label=Visitors&size=small)](https://myhits.vercel.app)
-
 ![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonseungwoo1&show_icons=true&theme=transparent)
 
 
