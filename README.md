@@ -1,5 +1,7 @@
 # Jeon SeungWoo😀
 
+![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonseungwoo1&show_icons=true&theme=transparent)
+
 ## Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=swoo531)](https://velog.io/@swoo531)
 
@@ -10,6 +12,5 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:swoo531@naver.com)
 
 
-## 📚status
-![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonseungwoo1&show_icons=true&theme=transparent)
+
 
