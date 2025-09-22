@@ -2,11 +2,9 @@
 
 # 😊 seungwoo
 
-[![Velog Blog](https://img.shields.io/badge/Velog-BLOG-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@swoo531)
 
 </div>
 
----
 
 ## 💡 About Me
 
