@@ -49,6 +49,4 @@
 
 ## 🔗 Contact & More
 
-| 구분 | 링크 |
-|------|------|
-| ✍️ Dev Blog | [**ai-notes**](https://velog.io/@swoo531) |
+- E-mail: swoo1577@gmail.com
