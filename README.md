@@ -12,7 +12,7 @@
   <sub>2024.01.10 ~ 2025.07.01</sub>
 - ☀️ Cloudike Company Internship  
   <sub>2025.07.01 ~ 2025.08.31</sub>
-- ☀️ Donguk University AiRLab
+- ☀️ Donguk University AiRLab  
   <sub>2025.11.01 ~ </sub>
 
 
